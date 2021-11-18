@@ -12,4 +12,5 @@ Country-wise statistics such as Infected, Recovered and Deaths.
 API : https://covid19.mathdro.id/api
 
 Setup:
-- run ```npm i && npm start```
+- npm install
+- npm start
